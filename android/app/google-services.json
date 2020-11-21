@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161301698756",
+    "firebase_url": "https://karantina-127c1.firebaseio.com",
+    "project_id": "karantina-127c1",
+    "storage_bucket": "karantina-127c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161301698756:android:f0ebd6fbf1fabdb0a75191",
+        "android_client_info": {
+          "package_name": "com.example.karantina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161301698756-o92t0bdoo37rhgll8fhenmq2b8vn51jr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHPb3us-1uBGQ2ldTNhXgwA5cu8rMIn70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161301698756-o92t0bdoo37rhgll8fhenmq2b8vn51jr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
